@@ -1,0 +1,12 @@
+*flask is a framework which is used to create small server and some like local things.Flask is a micro web framework written in Python.
+*Flask stands for
+*AF_INET is used to define the ipv4 ipv6 etc...........
+*API is perfomed with th effective use of REST framework
+*Data analaysis is a method in which unstructured data can be converted into meaningful information that can be used for 
+ test hypothesis,decision making etc
+* pandas is a python library that is used for working with data sets such as data cleaning , data manipulation ,data exploring etc..
+*data cleaning is the process by which it is able to delete the rows that are not relevent,containing wrong information or empty
+* seaborn is a library included in matplotlib, it is a data visualisation library
+* logistic regression is mainly used for probability determination it is mainly based on sigmoid function but in this algorithm capturing complex relations are very much hard and having limited accuracy, and there exist input and output variable in this which are having linear relationship
+
+* Slug filed is used to convert tyhe names into url format
